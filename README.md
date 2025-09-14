@@ -14,6 +14,28 @@ Experience the live website👉 [Play the Game](https://Oksigenka.github.io/2048
 - After every move, a new tile with a value of 2 (90% chance) or 4 (10% chance) appears in a random empty cell.
 - The goal is to create a tile with the number 2048.
 
+## ⚡ Getting Started
+Follow these steps to set up and run the project locally.
+
+### 1. Clone the repository
+```
+git clone https://github.com/<your-username>/apple-catalog.git
+cd react-phone-catalog
+```
+### 2. Install dependencies:
+```
+npm install
+# or
+yarn install
+```
+### 3. Run the project locally:
+```
+npm start
+# or
+yarn start
+```
+---
+
 ## ✨ Game Features
 - 4×4 Grid Gameplay – faithful recreation of the classic 2048 mechanics.
 - Dynamic Movement & Merging – tiles slide and combine smoothly; merged tiles cannot merge twice in one move.
